@@ -11,7 +11,7 @@
 
 ### Решение 1
 
-[haproxy.cfg]()
+[haproxy1.cfg](https://github.com/valdemar-2502/Clustering-and-load-balancing-Homework/blob/main/haproxy1.cfg)
 
 `Cкриншот, где видно перенаправление запросов на разные серверы при обращении к HAProxy:`
 
@@ -39,7 +39,7 @@ sudo nano /etc/hosts
 158.160.194.34  example.local
 ```
 
-[haproxy.cfg]()
+[haproxy2.cfg](https://github.com/valdemar-2502/Clustering-and-load-balancing-Homework/blob/main/haproxy2.cfg)
 
 `Cкриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него:`
 
