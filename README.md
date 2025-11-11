@@ -15,8 +15,8 @@
 
 `Cкриншот, где видно перенаправление запросов на разные серверы при обращении к HAProxy:`
 
-![Скриншот](https://github.com/valdemar-2502/Prometheus-Homework-2/blob/main/1.png)
-![Скриншот](https://github.com/valdemar-2502/Prometheus-Homework-2/blob/main/2.png)
+![Скриншот](https://github.com/valdemar-2502/Clustering-and-load-balancing-Homework/blob/main/task%201%20haproxy.png)
+![Скриншот](https://github.com/valdemar-2502/Clustering-and-load-balancing-Homework/blob/main/task%201%20haproxy2.png)
 
 ---
 
@@ -43,5 +43,5 @@ sudo nano /etc/hosts
 
 `Cкриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него:`
 
-![Скриншот](https://github.com/valdemar-2502/Prometheus-Homework-2/blob/main/1.png)
-![Скриншот](https://github.com/valdemar-2502/Prometheus-Homework-2/blob/main/2.png)
+![Скриншот](https://github.com/valdemar-2502/Clustering-and-load-balancing-Homework/blob/main/task%202%20haproxy.png)
+![Скриншот](https://github.com/valdemar-2502/Clustering-and-load-balancing-Homework/blob/main/task%202%20haproxy2.png)
